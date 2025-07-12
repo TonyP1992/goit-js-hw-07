@@ -37,5 +37,6 @@ img.alt = alt;
 
 li.append(img);
 fragment.append(li);
-gallery.append(fragment);
+
 });
+gallery.append(fragment);
